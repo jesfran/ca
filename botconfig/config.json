@@ -1,0 +1,39 @@
+{
+   "token": "OTMzMzgwMzUwNDU1OTc1OTc2.YegsMA.uUjHcb83dcyGHwr9QO71fD-hN80",
+   "prefix": "!",
+  "ownerIDS": [
+      "326964325346443266",
+      "326964325346443266"
+   ],
+   "memer_api": "cS1CIN2m6r4",
+   "status": {
+      "text": "{prefix}help | {commands} comandos",
+      "text2": "ayudando a {membercount} personas",
+      "type": "STREAMING",
+      "url": "https://twitch.tv/jes_fran"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "node1.roverdev.xyz",
+            "port": 2333,
+            "password": "discord.gg/roverdev"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "99058df840f642a5b19567c685170c56",
+      "clientID": "26dd07413b8a49d6a90a110513049678"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
